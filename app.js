@@ -1,4 +1,4 @@
-
+// References https://medium.com/codingthesmartway-com-blog/building-a-vanilla-javascript-todo-app-from-start-to-finish-ep-1-introduction-project-setup-8165cf33f37
 // Event Handlers
 function handleSubmitForm(e) {
     e.preventDefault();
